@@ -9,4 +9,4 @@ Un Menu recursivo con python
 - **Profesor:** Kevin David Molina Gomez ☆
 - **Semestre:** 6to Semestre 
 
-![Interfaz] (captura.png)
+![](captura.png) Imagen del menu funcionando
